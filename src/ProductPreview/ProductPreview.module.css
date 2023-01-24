@@ -1,0 +1,28 @@
+.ProductPreview {
+    width: 100%;
+    position: relative;
+}
+
+.ProductPreview > img {
+    width: 100%;
+}
+
+.TimeSection {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 48px;
+    font-weight: 600;
+}
+
+.HeartBeatSection {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 48px;
+    font-weight: 600;
+}
